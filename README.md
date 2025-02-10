@@ -25,7 +25,7 @@
 
 ## Assignment requirement: 
 Block theme: variations\
-Change in child theme.\
+Change in child theme.
 -	Theme. Json -> Change button attributes, header and footer
 -	Pattern-> footer
 -	Templates-> home
