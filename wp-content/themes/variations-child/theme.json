@@ -1,0 +1,88 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"styles": {
+		"blocks": {
+			"core/button": {
+				"border": {
+					"radius": "30px",
+					"style": "solid",
+					"width": "1px",
+					"color": "#07277c"
+				},
+				"spacing": {
+					"padding": {
+						"bottom": "10px",
+						"left": "50px",
+						"right": "50px",
+						"top": "10px"
+					}
+				}
+			}
+		},
+		"elements": {
+			"button": {
+				":active": {
+					"color": {
+						"background": "#ffffff",
+						"text": "#07277c"
+					}
+				},
+				":focus": {
+					"color": {
+						"background": "#07277c",
+						"text": "#ffffff"
+					}
+				},
+				":hover": {
+					"color": {
+						"background": "#07277c",
+						"text": "#ffffff"
+					}
+				},
+				":visited": {
+					"color": {
+						"text": "#a2a2a2"
+					}
+				},
+				
+				"border": {
+					"radius": "30px",
+					"style": "solid",
+					"width": "1px",
+					"color": "#07277c"
+				},
+				"color": {
+					"background": "#ffffff",
+					"text": "#07277c"
+				}
+			},
+			"link": {
+				":active": {
+					"typography": {
+						"textDecoration": "none"
+					}
+				},
+				":focus": {
+					"typography": {
+						"textDecoration": "underline"
+					}
+				},
+				":hover": {
+					"typography": {
+						"textDecoration": "underline"
+					},					
+					"color": {
+						"text": "#07277c"
+					}
+				},
+				"color": {
+					"text": "#000000"
+				},
+				"typography": {
+					"textDecoration": "none"
+				}
+			}
+		}
+	}
+}

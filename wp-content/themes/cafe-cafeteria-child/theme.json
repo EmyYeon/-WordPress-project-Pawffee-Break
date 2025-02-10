@@ -1,0 +1,37 @@
+{"version": 2,
+    "styles": {
+        "blocks": {
+            "core/navigation": {
+                "elements": {
+                    "link": {
+                        ":hover": {
+                            "typography": {
+                                "textDecoration": "overline"
+                            }
+                        }
+                    }
+                }
+            },
+            "core/list": {
+				"spacing": {
+					"padding": {
+						"left": "100px"
+					}
+				}
+			}
+        },
+            "elements": {
+			"button": {
+                ":hover": {
+					"color": {
+						"background": "red",
+						"text": "var(--wp--preset--color--base)"
+					},
+					"border": {
+						"color": "var(--wp--preset--color--contrast-2)"
+					}
+                }
+            }
+        }
+    }
+}
