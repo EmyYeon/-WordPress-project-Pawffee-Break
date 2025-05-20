@@ -1,5 +1,8 @@
 # WordPress project-Pawffee Break: a fictional pet café website
 [Video Demo Presentation](https://youtu.be/5nwenRz30jk?si=mpts-FH0eu4L3vmz)
+![capture_250219_014929](https://github.com/user-attachments/assets/2d75a361-0839-4cf7-903a-cdcf79ea4d70)
+![capture_250219_015126](https://github.com/user-attachments/assets/23c447dc-87d0-49f5-b8e9-e362a9196cf4)
+
 ## Structure and content of the website
 ### Home Page: 
 -	Link to different pages
